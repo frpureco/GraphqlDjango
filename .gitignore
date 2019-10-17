@@ -6,3 +6,4 @@ uploads/
 htmlcov/*
 .coverage
 db.sqlite3
+pokedex_api/local_settings.py
